@@ -1,6 +1,8 @@
 # Plant-Disease-Detection-Project
 Plant Disease Detection Project Code, Document And Vidoe Tutorial
 
+![Plant Disease](https://github.com/user-attachments/assets/e8c20642-3428-4a85-b9ee-e2eb5f031c55)
+
 ## Youtube link: https://youtu.be/VPW8OGHTUrk?si=u5sPWT44gSTRzi1M
 
 ## Abstract
